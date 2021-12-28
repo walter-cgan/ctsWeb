@@ -1,0 +1,5 @@
+API/Controllers/WeatherForecastController.cs
+API/bin
+API/obj
+WeatherForecast.cs
+appsettings.json
